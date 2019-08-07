@@ -9,7 +9,7 @@
 .nuevo {
     width: 100%;
     height: 650px;
-    background-image: url(../Img/Clientes/np1.jpg);
+    background-image: url(./Img/Clientes/np1.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
